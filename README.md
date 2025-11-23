@@ -1,6 +1,6 @@
 A script to generate meshes (.stl) of (complex) [spherical harmonics](https://en.wikipedia.org/wiki/Spherical_harmonics) for 3d printing.
 
-You may want to use the pregenerated meshes at 
+Pregenerated meshes are available here: https://www.printables.com/model/1490949-spherical-harmonics
 
 ## Usage
 
